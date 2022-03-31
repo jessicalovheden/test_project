@@ -22,17 +22,14 @@ Secondly, open Google Authenticator and click on **Google** plus sign and **_Sca
 
 Now you will have a new token called **_VOM_** in your Google authenticator. Click now Next on your screen and use the generated code within the allowed time limit (30 seconds) and then click submit to log in the application.
 
-  
+### Step 4
 
-4
-
-Next time you need to log in VOM you will only have to input the 6 digit code from your Google Authenticator token and not go through the initial set-up again.
-
+ Next time you need to log in VOM you will only have to input the 6 digit code from your Google Authenticator token and not go through the initial set-up again.
 
   
 **Please note, that this is a custom developed 2FA mechanism for VOM and currently you will need to always use the code provided in the VOM token in Google Authenticator. Using for example the value provided by the Visma Connect or VPN token will unfortunately not be accepted!**
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODMzNjM0NSwtMTQyNDE4MjQ5NF19
+eyJoaXN0b3J5IjpbLTQ3NTMzNjAxOCwtMTQyNDE4MjQ5NF19
 -->
