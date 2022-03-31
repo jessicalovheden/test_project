@@ -16,6 +16,7 @@ Therefore it is very important that the data within VOM is:
 
 -   **Of high quality**: By being constantly updated and correctly entered. This is crucial as there are a variety of systems using data from VOM (e.g. user will not get a correct email address if his name is not entered correctly in VOM)
 -   **Restricted to certain employees**: Employees data from VOM must NOT be accessible / visible to those without a genuine reason and therefore only
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg5OTE5MjRdfQ==
+eyJoaXN0b3J5IjpbNTMxMDk2NTcwLC0xNTM4OTkxOTI0XX0=
 -->
