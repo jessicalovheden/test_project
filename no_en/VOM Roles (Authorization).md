@@ -30,11 +30,7 @@ Role which can be assigned for Visma employees which need to use employee relate
 
 Role is not able to edit employees in VOM and access to sensitive fields is restricted.
 
-  
-  
 Via request to Visma People's Team at  [people@visma.com](mailto:people@visma.com)
-
-  
 
 **Now: the role should be assigned manually with a scope defined, except Group HR.**
 
@@ -82,5 +78,6 @@ The completed access in VOM (or the Authorization) consists of 2 components,  **
 
 More information about the authorization in VOM can be found here:  [VOM Authorization mechanism](https://confluence.visma.com/display/CTO/VOM+Authorization+mechanism#VOMAuthorizationmechanism-Roles)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MDExMTk1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTE2ODk5MzM0Nyw4NTkwMTExOTUsNzMwOT
+k4MTE2XX0=
 -->
