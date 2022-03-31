@@ -11,6 +11,8 @@ The Hierarchy tab shows the entire Visma Organizational structure and shows unde
 -   Further Sub-Teams (if any)
 
 On the top left corner, the table view allows for a quick navigation between the different Organizational Units in a table format and to subsequently focus visualization on a specific node (e.g. a Business Area/Organisation, etc) and the direct units under the selection.
+
+Additionally, the search function allows looking up by name a specific unit in the whole Organizational tree.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAxNDAzMDddfQ==
+eyJoaXN0b3J5IjpbMzE1OTg0OTJdfQ==
 -->
