@@ -1,8 +1,12 @@
  - Background
  - VOM application
  - Login & Authentication
- - V
+ - VOM Roles (Authorization)
+ - Homepage
+ - Statistics
+ - Locations
+ - Hierarchy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTQ2MjI3MV19
+eyJoaXN0b3J5IjpbLTE1MTQ4MjYxMzhdfQ==
 -->
