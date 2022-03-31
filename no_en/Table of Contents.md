@@ -8,8 +8,8 @@
  - [Statistics](https://github.com/jessicalovheden/test_project/blob/master/no_en/Statistics.md)
  - [Locations](https://github.com/jessicalovheden/test_project/blob/master/no_en/Locations.md)
 -   [Hierarchy](https://github.com/mundimark/awesome-markdown#markdown-documentation)
-    -   [Markdown Cheatsheets / Quick References](https://github.com/mundimark/awesome-markdown#markdown-cheatsheets--quick-references)
+    -   [Navigations thorugh the Visma Hierarchy](https://github.com/mundimark/awesome-markdown#markdown-cheatsheets--quick-references)
     -   [Markdown Getting Started Guides / Tutorials](https://github.com/mundimark/awesome-markdown#markdown-getting-started-guides--tutorials)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTQ2NzYzMl19
+eyJoaXN0b3J5IjpbLTk3ODU2OTE3MF19
 -->
