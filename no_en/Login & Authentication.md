@@ -10,23 +10,15 @@ To access VOM the user requires the following:
 
 Below you can find some information on how the VOM 2FA works.
 
-## Step 1
+### Step 1
 
 On your first login, you will be prompted to add your VOM 2FA token in Google Authenticator. This is an initial 1 time set-up and for easier set-up, access VOM from your PC at this step. Start by downloading the Google authenticator application on your phone.
 
-
-
-	
-
-
-
-## Step 2
+### Step 2
 
 Secondly, open Google Authenticator and click on **Google** plus sign and **_Scan QR code_**  and scan the QR code presented on your screen.
 
-![](https://confluence.visma.com/download/thumbnails/502614130/image2021-12-8_15-29-26.png?version=1&modificationDate=1641887744937&api=v2)
-
-3
+### Step 3
 
 Now you will have a new token called **_VOM_** in your Google authenticator. Click now Next on your screen and use the generated code within the allowed time limit (30 seconds) and then click submit to log in the application.
 
@@ -36,12 +28,11 @@ Now you will have a new token called **_VOM_** in your Google authenticator. Cli
 
 Next time you need to log in VOM you will only have to input the 6 digit code from your Google Authenticator token and not go through the initial set-up again.
 
-![](https://confluence.visma.com/download/attachments/502614130/image2021-12-8_15-28-36.png?version=1&modificationDate=1641887744967&api=v2)
 
   
 **Please note, that this is a custom developed 2FA mechanism for VOM and currently you will need to always use the code provided in the VOM token in Google Authenticator. Using for example the value provided by the Visma Connect or VPN token will unfortunately not be accepted!**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMTcxODI4LC0xNDI0MTgyNDk0XX0=
+eyJoaXN0b3J5IjpbMTc4ODMzNjM0NSwtMTQyNDE4MjQ5NF19
 -->
