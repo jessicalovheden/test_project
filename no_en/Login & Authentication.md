@@ -9,8 +9,10 @@ To access VOM the user requires the following:
 -   Google Authenticator application for 2FA
 
 Below you can find some information on how the VOM 2FA works.
-|Step	| Description|	Sceenshot 
-|1|On your first login, you will be prompted to add your VOM 2FA token in Google Authenticator. This is an initial 1 time set-up and for easier set-up, access VOM from your PC at this step. Start by downloading the Google authenticator application on your phone.||  |  |
+
+## Step 1
+
+On your first login, you will be prompted to add your VOM 2FA token in Google Authenticator. This is an initial 1 time set-up and for easier set-up, access VOM from your PC at this step. Start by downloading the Google authenticator application on your phone.
 
 
 
@@ -18,7 +20,7 @@ Below you can find some information on how the VOM 2FA works.
 
 
 
-2
+## Step 2
 
 Secondly, open Google Authenticator and click on **Google** plus sign and **_Scan QR code_**  and scan the QR code presented on your screen.
 
@@ -41,5 +43,5 @@ Next time you need to log in VOM you will only have to input the 6 digit code fr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTcwMDE0OCwtMTQyNDE4MjQ5NF19
+eyJoaXN0b3J5IjpbNzMwMTcxODI4LC0xNDI0MTgyNDk0XX0=
 -->
