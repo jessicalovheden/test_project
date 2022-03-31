@@ -7,9 +7,10 @@
  - [Homepage](https://github.com/jessicalovheden/test_project/blob/master/no_en/Homepage.md)
  - [Statistics](https://github.com/jessicalovheden/test_project/blob/master/no_en/Statistics.md)
  - [Locations](https://github.com/jessicalovheden/test_project/blob/master/no_en/Locations.md)
--   [Hierarchy](https://github.com/mundimark/awesome-markdown#markdown-documentation)
-    -   [Navigations thorugh the Visma Hierarchy](https://github.com/mundimark/awesome-markdown#markdown-cheatsheets--quick-references)
+-   [Hierarchy](https://github.com/jessicalovheden/test_project/blob/master/no_en/Hierarchy.md)
+    -   [Navigations through the Visma Hierarchy]
     -   [Markdown Getting Started Guides / Tutorials](https://github.com/mundimark/awesome-markdown#markdown-getting-started-guides--tutorials)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODU2OTE3MF19
+eyJoaXN0b3J5IjpbMTE2MzY4NjAzMiwtOTc4NTY5MTcwXX0=
 -->
