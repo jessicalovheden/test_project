@@ -9,8 +9,8 @@
  - [Locations](https://github.com/jessicalovheden/test_project/blob/master/no_en/Locations.md)
 -   [Hierarchy](https://github.com/jessicalovheden/test_project/blob/master/no_en/Hierarchy.md)
     -   [Navigations through the Visma Hierarchy]
-    -   [Markdown Getting Started Guides / Tutorials](https://github.com/mundimark/awesome-markdown#markdown-getting-started-guides--tutorials)
+    -   [Maintaining the Hierarchy structure]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzY4NjAzMiwtOTc4NTY5MTcwXX0=
+eyJoaXN0b3J5IjpbMTAxOTQ3MDc5MCwtOTc4NTY5MTcwXX0=
 -->
